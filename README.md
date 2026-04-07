@@ -1,6 +1,6 @@
 # UTN - TUPaD Programación 1
 
-Este repositorio contiene los ejercicios resueltos del **Trabajo Práctico** de las Unidades 1, 2 y 3 de la materia **Programación 1** de la Tecnicatura Universitaria en Programación de Aplicaciones Digitales (TUPaD) - UTN.
+Este repositorio contiene los ejercicios resueltos del **Trabajo Práctico** de las Unidades 1, 2 y 3 de la materia **Programación 1** de la Tecnicatura Universitaria en Programación a Distancia (TUPaD) - UTN.
 
 ## 📋 Contenido
 
